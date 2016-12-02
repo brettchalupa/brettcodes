@@ -1,0 +1,14 @@
+title: Monoso
+email: contact@monoso.co
+description: > # this means to ignore newlines until "baseurl:"
+  A web application and website development and design consultancy focused
+  on simplicity, specializing in Ruby on Rails, Wordpress, Shopify,
+  Ember.js, and full stack development.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://www.monoso.co" # the base hostname & protocol for your site
+twitter_username: monoso_co
+github_username: monoso
+
+# Build settings
+markdown: kramdown
+theme: minima
