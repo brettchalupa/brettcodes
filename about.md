@@ -1,7 +1,18 @@
 ---
-layout: page
 title: About
-permalink: /about
+permalink: "/about"
+description: Information about  Monoso, links to their profiles on the web, and how to get in touch.
+layout: default
 ---
 
-Full bio coming soon.
+# About
+
+[TODO: add bio]
+
+## On the Web
+
+[TODO: add links to Twitter, YouTube, GitHub]
+
+## Contact
+
+[TODO: add contact info / email]

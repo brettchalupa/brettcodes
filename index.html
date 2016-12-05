@@ -1,7 +1,38 @@
 ---
+title: Home
 layout: default
 ---
 
-<div class="home">
-  Full website coming soon.
+<div id="home">
+  <div class="intro">
+    <h1>Monoso</h1>
+  </div>
+
+  <div class='section featured-projects'>
+    <h2>Featured Projects<h2>
+
+    <ul class='projects-list'>
+      {% for project in site.projects reversed %}
+        {% if project.tags contains 'featured' %}
+          {% include project-list-item.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/projects'>All Projects</a></p>
+  </div>
+
+  <div class='section blog-posts'>
+    <h2>Latest Blog Posts</h2>
+
+    <ul class='posts-list'>
+      {% for post in site.posts limit: 3 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> / <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/blog'>All Posts</a></p>
+  </div>
 </div>

@@ -1,0 +1,17 @@
+---
+title: Projects
+description: Projects that Monoso has worked on over the years.
+permalink: "/projects/"
+layout: default
+---
+
+<div id="projects">
+  <h1>Projects</h1>
+
+  <ul class="projects">
+  <ul class='projects-list'>
+    {% for project in site.projects reversed %}
+      {% include project-list-item.html %}
+    {% endfor %}
+  </ul>
+</div>

@@ -1,0 +1,35 @@
+---
+layout: default
+---
+
+<article class="post pr_post" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+
+    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time></p>
+  </header>
+
+  <div class="post-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+</article>
+
+
+<div class='post-nav'>
+  {% if page.next.url %}
+    {% if page.next.tags contains 'journal_entry' %}
+      <a class="next post-nav-item" href="{{page.next.url}}">
+        {{page.next.title}} &raquo;
+      </a>
+    {% endif %}
+  {% endif %}
+
+  {% if page.previous.url %}
+    {% if page.previous.tags contains 'journal_entry' %}
+      <a class="prev post-nav-item" href="{{page.previous.url}}">
+        &laquo; {{page.previous.title}}
+      </a>
+    {% endif %}
+  {% endif %}
+
+</div>
