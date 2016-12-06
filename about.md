@@ -9,9 +9,17 @@ layout: default
 
 [TODO: add bio]
 
+## Team
+
+### Brett Chalupa
+
+*Founder / Developer / Designer*
+
+![Photo of Brett](/img/about_brett.jpg)
+
 ## On the Web
 
-[TODO: add links to Twitter, YouTube, GitHub]
+[TODO: add links to Twitter, YouTube, GitHub, Linkedin]
 
 ## Contact
 
