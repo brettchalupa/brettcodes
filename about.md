@@ -26,7 +26,7 @@ and design.
 
 Brett Chalupa is a developer, designer, and writer. He started
 programming at the age of thirteen and hasn't stopped since. He lives a
-simple lifestyle, focused on the contentment. He enjoys reading and
+simple lifestyle, focused on contentment. He enjoys reading and
 watching movies.
 
 [Website](http://www.brettchalupa.com) /
