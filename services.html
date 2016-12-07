@@ -1,0 +1,16 @@
+---
+title: Services
+description: Services that Monoso offers to clients.
+permalink: "/services"
+layout: default
+---
+
+<div id="services">
+  <h1>Services</h1>
+
+  <ul class='list-grid'>
+    {% for service in site.services reversed %}
+      {% include service-list-item.html %}
+    {% endfor %}
+  </ul>
+</div>
