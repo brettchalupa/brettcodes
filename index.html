@@ -5,17 +5,31 @@ layout: default
 
 <div id="home">
   <div class="intro">
-    <h1>Simple &amp; sustainable software solutions.</h1>
+    <h1>Simple &amp; sustainable software development</h1>
 
     <p class='intro-description'>Monoso is a boutique development
     and design firm specializing in building web applications and
     websites.</p>
   </div>
 
-  <div class='section featured-projects'>
-    <h2>Select Projects<h2>
+  <div class='section featured-services'>
+    <h2>Featured Services<h2>
 
-    <ul class='projects-list'>
+    <ul class='list-grid'>
+      {% for service in site.services reversed %}
+        {% if service.tags contains 'featured' %}
+          {% include service-list-item.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/projects'>All Projects</a></p>
+  </div>
+
+  <div class='section featured-projects'>
+    <h2>Featured Projects<h2>
+
+    <ul class='list-grid'>
       {% for project in site.projects reversed %}
         {% if project.tags contains 'featured' %}
           {% include project-list-item.html %}
@@ -38,5 +52,9 @@ layout: default
     </ul>
 
     <p class='small'><a href='/blog'>All Posts</a></p>
+  </div>
+
+  <div class='section cta'>
+    <a href='/hire' class='btn'>Hire Monoso</a>
   </div>
 </div>

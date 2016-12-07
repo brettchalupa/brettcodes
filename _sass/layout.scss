@@ -2,7 +2,7 @@
 
 $font-family: 'Work Sans', serif;
 $font-family-mono: Monaco, Courier New, Courier, monospace;
-$font-color: #4A4A4A;
+$font-color: #2A2A2A;
 $font-color-light: lighten($font-color, 10%);
 $font-weight-light: 300;
 $font-weight-normal: 400;
@@ -11,6 +11,8 @@ $font-weight-bold: 500;
 $spacing-unit: 48px;
 
 $transition-color: color 0.4s ease;
+$transition-border-color: border-color 0.4s ease;
+$border-solid: 1px solid rgba($font-color-light, 0.5);
 
 $breakpoint-sm: 767px;
 
@@ -51,7 +53,7 @@ h6 {
   font-size: 14px;
 }
 
-p, ul, ol, li, span, blockquote, small {
+p, ul, ol, li, span, blockquote, small, a {
   color: $font-color;
   font-family: $font-family;
   font-weight: $font-weight-normal;
@@ -81,7 +83,7 @@ blockquote {
 
 hr {
   border: none; // clear out default border
-  border-top: 1px solid rgba($font-color-light, 0.5);
+  border-top: $border-solid;
 }
 
 a {
@@ -91,6 +93,20 @@ a {
   &:hover,
   &:focus {
     color: $font-color-light;
+  }
+}
+
+.btn {
+  border: $border-solid;
+  color: $font-color;
+  padding: $spacing-unit / 2 $spacing-unit / 1.5;
+  text-decoration: none;
+
+  transition: $transition-border-color;
+
+  &:hover,
+  &:focus {
+    border-color: darken($font-color, 15%);
   }
 }
 
@@ -160,6 +176,12 @@ iframe {
 
 .section {
   margin-bottom: $spacing-unit;
+
+  &.cta {
+    padding-bottom: $spacing-unit / 2;
+    padding-top: $spacing-unit;
+    text-align: center;
+  }
 }
 
 // Header & Footer
@@ -268,7 +290,7 @@ iframe {
   margin: $spacing-unit auto;
 }
 
-.projects-list {
+.list-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;

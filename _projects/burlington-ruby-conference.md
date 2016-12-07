@@ -4,10 +4,10 @@ date: 2015-08-02 00:00:00 Z
 tags:
 - project
 layout: project
-organization: myself
+organization: Monoso
 time_period: January 2013 - August 2015
 responsibilities: organizing, design, marketing, and development
-technologies: 
+technologies:
 website: http://burlingtonruby.github.io/conference/
 excerpt: Annual conference in Burlington, VT for Ruby developers
 ---

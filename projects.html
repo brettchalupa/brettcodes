@@ -8,8 +8,7 @@ layout: default
 <div id="projects">
   <h1>Projects</h1>
 
-  <ul class="projects">
-  <ul class='projects-list'>
+  <ul class='list-grid'>
     {% for project in site.projects reversed %}
       {% include project-list-item.html %}
     {% endfor %}
