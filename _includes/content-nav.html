@@ -1,0 +1,15 @@
+<!-- displays next and previous links based on the current page -->
+
+<div class='content-nav'>
+  {% if page.next.url %}
+    <a class="next content-nav-item" href="{{page.next.url}}">
+      {{page.next.title}} &raquo;
+    </a>
+  {% endif %}
+
+  {% if page.previous.url %}
+    <a class="prev content-nav-item" href="{{page.previous.url}}">
+      &laquo; {{page.previous.title}}
+    </a>
+  {% endif %}
+</div>
