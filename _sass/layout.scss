@@ -203,6 +203,15 @@ iframe {
   }
 }
 
+.site-header {
+  .nav-item-about {
+    @media (max-width: $breakpoint-sm) {
+      // Hide the About link on small screens
+      display: none;
+    }
+  }
+}
+
 .site-footer {
   @media (max-width: $breakpoint-sm) {
     flex-direction: column-reverse;
@@ -271,11 +280,15 @@ iframe {
   font-size: 16px;
   margin: 0 $spacing-unit / 3;
 
+  @media (max-width: $breakpoint-sm) {
+    margin: 0 $spacing-unit / 4;
+  }
+
   &:last-of-type {
     margin-right: 0;
 
     @media (max-width: $breakpoint-sm) {
-      margin-right: $spacing-unit / 2;
+      margin-right: $spacing-unit / 4;
     }
   }
 
