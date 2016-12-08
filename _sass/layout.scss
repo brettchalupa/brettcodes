@@ -99,6 +99,7 @@ a {
 .btn {
   border: $border-solid;
   color: $font-color;
+  display: inline-block;
   padding: $spacing-unit / 2 $spacing-unit / 1.5;
   text-decoration: none;
 
