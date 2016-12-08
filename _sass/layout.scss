@@ -311,8 +311,12 @@ iframe {
   list-style: none;
 }
 
-.pli {
-  max-width: 240px;
+.lgi {
+  width: 33.33%;
+
+  @media (max-width: $breakpoint-sm) {
+    width: 100%;
+  }
 }
 
 // Page Layouts

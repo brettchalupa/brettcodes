@@ -12,20 +12,6 @@ layout: default
     websites.</p>
   </div>
 
-  <div class='section featured-services'>
-    <h2>Featured Services<h2>
-
-    <ul class='list-grid'>
-      {% for service in site.services reversed %}
-        {% if service.tags contains 'featured' %}
-          {% include service-list-item.html %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-
-    <p class='small'><a href='/projects'>All Projects</a></p>
-  </div>
-
   <div class='section featured-projects'>
     <h2>Featured Projects<h2>
 
@@ -38,6 +24,20 @@ layout: default
     </ul>
 
     <p class='small'><a href='/projects'>All Projects</a></p>
+  </div>
+
+  <div class='section featured-services'>
+    <h2>Featured Services<h2>
+
+    <ul class='list-grid'>
+      {% for service in site.services reversed %}
+        {% if service.tags contains 'featured' %}
+          {% include service-list-item.html %}
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/projects'>All Services</a></p>
   </div>
 
   <div class='section blog-posts'>
