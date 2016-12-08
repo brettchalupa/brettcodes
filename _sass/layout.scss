@@ -341,6 +341,10 @@ iframe {
   @extend p.small;
 
   margin: 0;
+
+  span {
+    @extend .post-meta;
+  }
 }
 
 .content-nav {
