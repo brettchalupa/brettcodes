@@ -16,6 +16,8 @@ businesses by building software that is high quality and as simple as
 possible, as well as create and share resources on software development
 and design.
 
+We love fast websites.
+
 ## Team
 
 ### Brett Chalupa
