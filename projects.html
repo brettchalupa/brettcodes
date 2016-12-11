@@ -6,11 +6,27 @@ layout: default
 ---
 
 <div id="projects">
-  <h1>Projects</h1>
+  <h1>{{ page.title }}</h1>
+
+  <p>{{ page.description }}</p>
+
+  <h2>Featured Projects</h2>
 
   <ul class='list-grid'>
     {% for project in site.projects reversed %}
-      {% include project-list-item.html %}
+      {% if project.tags contains 'featured' %}
+        {% include project-list-item.html %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+
+  <h2>All Projects</h2>
+
+  <ul class='list-grid'>
+    {% for project in site.projects reversed %}
+      {% unless project.tags contains 'featured' %}
+        {% include project-list-item.html %}
+      {% endunless %}
     {% endfor %}
   </ul>
 </div>
