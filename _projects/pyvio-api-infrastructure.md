@@ -15,4 +15,4 @@ website: https://www.pyvio.com/
 excerpt: Local deals and specials discovery app
 ---
 
-[TODO: expand upon what was done and why -- upgrade to Ember v2, new feature additions, bug fixes, setting up a new host for the ember app, CI & CD, tech stack]
+We setup the API application infrastructure for Pyvio on [Heroku](https://www.heroku.com/) to allow for the iOS app to be built against.

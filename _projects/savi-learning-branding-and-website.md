@@ -10,8 +10,17 @@ time_period: July 2016 - September 2016
 technologies:
 - Sketch
 - Jekyll
-website: https://launchpad.savilearning.org
+website: http://www.savilearning.org
 excerpt: Curriculum planner that supports and inspires teachers to design high-quality, personalized learning experiences.
 ---
 
-[TODO: expand upon this, add images, and write about the process]
+![Savi Learning Logo](/img/projects/savi-learning-branding.png)
+
+We designed the Savi Learning brand collaboratively by creating a logo and style guide that specifies typography, color ways, and logo usage. We also designed and built their website based on the created style guide.
+
+The style guide was built with Sketch. The website is powered by Jekyll.
+
+![Savi Learning Website](/img/projects/savi-learning-website.png)
+
+We started the process by creating a mood board to share aesthetics and inspirations. From there, we worked with Savi Learning to select and refine the logo. Once that was all set, we designed and implemented the website.
+

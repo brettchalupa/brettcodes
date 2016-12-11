@@ -3,7 +3,6 @@ title: DataVision Data Sync
 date: 2016-08-07 00:00:00 Z
 tags:
 - project
-- featured
 layout: project
 responsibilities:
 - Data Sync Development
@@ -18,4 +17,6 @@ website:
 excerpt: Webhook powered product data sync tool
 ---
 
-[TODO: expand upon what the project is, what I did, and how it works]
+We built the DataVision Sync application that syncs product data from [GfK Etilize](http://www.etilize.com/index.htm)’s catalog to Shopify whenever a new product is added to the Shopify store’s catalog.
+
+The application is powered by [Sinatra](http://www.sinatrarb.com/), and it was built with test-driven development practices. The main problem the application addresses is fetching data from a third-party provided on an as-needed basis.
