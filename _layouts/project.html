@@ -7,9 +7,21 @@ layout: default
 <div class="project">
   <p><em>{{ page.excerpt }}</em></p>
 
-  <p>Built for {{ page.organization }} during {{ page.time_period }}. I
-  did {{ page.responsibilities }}{% if page.technologies %}, and it is
-  built with {{ page.technologies }}{% endif %}. <a href="{{ page.website }}">Check it out.</a> </p>
+  <h2>Details</h2>
+
+  <ul>
+    <li>Organization: {{ page.organization }}</li>
+    <li>Time Period: {{ page.time_period }}</li>
+    <li>Responsibilities: {{ page.responsibilities | join: ', ' }}
+    {% if page.technologies %}
+      <li>Technologies: {{ page.technologies | join: ', ' }}</li>
+    {% endif %}
+    {% if page.website %}
+      <li>Website: <a href="{{ page.website }}" target="_blank">{{ page.website }}</a></li>
+    {% endif %}
+  </ul>
+
+  <h2>Description</h2>
 
   {{ content }}
 </div>
