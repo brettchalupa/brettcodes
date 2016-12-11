@@ -6,7 +6,8 @@ tags:
 layout: project
 organization: Tarrant Institute
 time_period: August 2013
-responsibilities: teaching
+responsibilities:
+- Teaching
 technologies: ruby
 website: https://github.com/brettchalupa/the_fundamentals_of_ruby
 excerpt: A week-long course teaching kids how to program with Ruby

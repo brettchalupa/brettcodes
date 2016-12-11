@@ -11,7 +11,7 @@ responsibilities:
 - Infrastructure
 technologies: Web, Python
 website: http://digital.vpr.net/
-excerpt: Supporting VPR during a transitional period. 
+excerpt: Supporting VPR during a transitional period
 ---
 
 We worked with Vermont Public Radio to support their web projects and infrastructure during a transition with their team members. Our main responsibilities were to fix issues and support the existing applications and infrastructure.

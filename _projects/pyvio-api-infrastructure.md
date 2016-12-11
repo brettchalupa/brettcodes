@@ -4,7 +4,7 @@ date: 2016-09-18 00:00:00 Z
 tags:
 - project
 responsibilities:
-- Infrastructure
+- Infrastructure Setup
 layout: project
 organization: Wyngit
 time_period: September 2016

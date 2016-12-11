@@ -5,7 +5,7 @@ tags:
 - project
 layout: project
 responsibilities:
-- Data Sync Development
+- Sync Utility Development
 organization: DataVision / Monumental
 time_period: April 2016 - August 2016
 technologies:
