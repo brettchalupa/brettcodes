@@ -315,8 +315,7 @@ iframe {
   box-sizing: border-box;
   width: 33.33%;
 
-  padding-left: $spacing-unit / 4;
-  padding-right: $spacing-unit / 4;
+  padding-right: $spacing-unit / 3;
 
   @media (max-width: $breakpoint-sm) {
     width: 100%;
