@@ -1,7 +1,5 @@
 ---
-title: Shopify
+title: Shopify Store Development
 date: 2016-11-30 00:00:00 Z
-tags:
-- featured
 layout: service
 ---
