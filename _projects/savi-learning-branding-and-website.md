@@ -16,7 +16,7 @@ technologies:
 - Web
 - Jekyll
 website: http://www.savilearning.org
-excerpt: Curriculum planner that supports and inspires teachers to design high-quality, personalized learning experiences
+excerpt: Build incredible learning experiences.
 ---
 
 ![Savi Learning Logo](/img/projects/savi-learning-branding.png)
