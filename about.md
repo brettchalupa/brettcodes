@@ -7,14 +7,17 @@ layout: default
 
 # About
 
-Monoso is a boutique web development firm based in Portland, Oregon
-focused on building simple and sustainable solutions. Monoso specializes
-in Ruby on Rails, Ember.js, Shopify, and Wordpress development.
+Monoso is a small web application development firm based in Portland,
+Oregon focused on building simple and sustainable solutions. Monoso
+specializes in Ruby on Rails, Ember.js, Shopify, and Wordpress
+development.
 
-Monoso was founded in April 2016. The goal of Monoso is to help
-businesses by building software that is high quality and as simple as
-possible, as well as create and share resources on software development
+Monoso was founded in April 2016 with the goal of helping businesses by
+building software that is high quality and as simple as possible, as
+well as create and share resources on software development
 and design.
+
+We value transparency, communication, and well thought out processes.
 
 ## Team
 

@@ -23,7 +23,7 @@ defaults:
   values:
     layout: post
     description:
-description: A boutique web development firm focused on building simple and sustainable solutions, specializing in Ruby on Rails, Ember.js, Shopify, and Wordpress.
+description: A process-oriented web application development studio specializing in Ruby on Rails, Ember.js, Shopify, Wordpress, and high-quality code.
 url: http://www.monoso.co
 logo: "/img/monoso-logo.png"
 twitter:
