@@ -7,9 +7,5 @@ layout: service
 ---
 
 We have been working with Ember.js for years and are confident in our
-ability to build front-end web applications quickly with it.
-
-To answer:
-
-- why we use Ember
-- our specialties (adding tests, maintenance, integrating with APIs)
+ability to build high-quality front-end web applications with it. We
+value the conventions of the framework and the tooling surrounding it.
