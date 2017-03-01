@@ -1,5 +1,6 @@
 ---
 title: Wordpress Development
+description: Portland, Oregon based Wordpress experts.
 date: 2016-11-29 00:00:00 Z
 layout: service
 ---

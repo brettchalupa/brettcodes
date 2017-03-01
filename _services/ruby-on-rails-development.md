@@ -1,5 +1,6 @@
 ---
 title: Ruby on Rails Development
+description: Portland, Oregon based Ruby on Rails experts.
 date: 2016-12-04 00:00:00 Z
 tags:
 - featured
