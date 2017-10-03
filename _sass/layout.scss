@@ -341,8 +341,7 @@ iframe {
 // Post / Entry
 
 .post-meta {
-  @extend p.small;
-
+  font-size: 14px;
   margin: 0;
 
   span {
