@@ -118,6 +118,11 @@ code span {
   font-size: 16px;
 }
 
+pre code {
+  display: inline-block;
+  overflow-x: scroll;
+}
+
 pre {
   margin-bottom: 20px;
 
