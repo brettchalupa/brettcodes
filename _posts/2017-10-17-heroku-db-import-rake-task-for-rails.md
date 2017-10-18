@@ -69,7 +69,7 @@ namespace :db do
     # Creates a back-up of your current local development
     # database in case you want to restore it.
     def dump_local
-      `pg_dump -Fc --no-acl --no-owner -h localhost -U #{user} launchpad_api_development > tmp/development-#{date}.dump`
+      `pg_dump -Fc --no-acl --no-owner -h localhost -U #{user} YOUR_LOCAL_DB_NAME_HERE > tmp/development-#{date}.dump`
     end
 
     # Imports the downloaded database dump into your local development database.
@@ -92,7 +92,8 @@ The task handles downloading and importing the Heroku database for the specified
 To add the tasks to your own app, you’ll need to make the following changes:
 
 - Specify the environments and Heroku app names for your own apps
-- Update the `-d` flag in the `#import_locally` method to be the name of your local database. If your app is called `Foo`, it’s likely the local development database is called `foo_development`.
+- Replace the `-d YOUR_LOCAL_DB_NAME_HERE` flag in the `#import_locally` method to be the name of your local database. If your app is called `Foo`, it’s likely the local development database is called `foo_development`.
+- Replace `YOUR_LOCAL_DB_NAME_HERE` in the command option in the `#dump_local` method to be the name of your local database. If your app is called `Foo`, it’s likely the local development database is called `foo_development`.
 
 You may also need to tweak the `#dump_local` and `#import_locally` methods based on your machine’s Postgres setup. At the time of publishing this post, the commands are for the default Postgres 9.6.5 setup on macOS 10.12 with Rails 5.1.4. 
 
