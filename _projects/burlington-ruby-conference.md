@@ -3,7 +3,6 @@ title: Burlington Ruby Conference
 date: 2015-08-02 00:00:00 Z
 tags:
 - project
-- featured
 layout: project
 organization: Monoso
 time_period: January 2013 - August 2015

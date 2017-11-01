@@ -27,10 +27,9 @@ We value transparency, communication, and well thought out processes.
 
 ![Photo of Brett](/img/about_brett.jpg)
 
-Brett Chalupa is a developer, designer, and writer. He started
-programming at the age of thirteen and hasn't stopped since. He lives a
-simple lifestyle, focused on contentment. He enjoys reading and
-watching movies.
+Brett Chalupa is a software developer and designer. He's been building
+software for over a decade. He lives a simple lifestyle, focused on
+contentment. Brett enjoys writing, reading, and watching movies.
 
 [Website](http://www.brettchalupa.com) /
 [LinkedIn](https://www.linkedin.com/in/brett-chalupa) /

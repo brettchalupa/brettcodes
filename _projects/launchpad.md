@@ -1,6 +1,6 @@
 ---
 title: LaunchPad
-date: 2016-03-21 00:00:00 Z
+date: 2017-11-01 00:00:00 Z
 tags:
 - project
 - featured
@@ -8,7 +8,7 @@ responsibilities:
 - Web Application Development
 - Web Application Design
 layout: project
-organization: Savi Learning
+organization: Savi
 time_period: March 2016 - Present
 technologies:
 - Ruby on Rails
@@ -21,12 +21,15 @@ We continue to design and develop LaunchPad for Savi Learning. LaunchPad is a cu
 
 Major completed phases for the LaunchPad project have been:
 
+- Adding the ability to copy projects
+- Adding user profiles
+- Adding support for making a project publicly viewable
+- Redesigning the project dashboard
 - Upgrading from Ember v1 to v2
 - Upgrading the API from Rails v4 to v5
 - Improving the user experience of creating projects
 - Improving application stability
 - Adding automated tests to the codebase
-- Redesigning the project dashboard
 
 ![LaunchPad Dashboard Redesign](/img/projects/launchpad-dashboard.png)
 

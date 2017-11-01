@@ -7,7 +7,7 @@ tags:
 layout: service
 ---
 
-We have been working with Ruby on Rails for over five years and are
+We have been working with Ruby on Rails for over six years and are
 capable of building full stack web applications and APIs with it. From
 improving performance to refactoring problem areas, we're very
 proficient with Ruby on Rails.

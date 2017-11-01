@@ -15,4 +15,4 @@ website: https://www.pyvio.com/
 excerpt: Local deals and specials discovery app
 ---
 
-We setup the API application infrastructure for Pyvio on [Heroku](https://www.heroku.com/) to allow for the iOS app to be built against.
+We setup the API application for Pyvio on [Heroku](https://www.heroku.com/) to allow for the iOS app to be built against it.

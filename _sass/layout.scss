@@ -312,7 +312,7 @@ iframe {
 .list-grid {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  justify-content: normal;
   list-style: none;
 }
 
@@ -368,4 +368,17 @@ iframe {
 
 #disqus_thread {
   margin-top: $spacing-unit;
+}
+
+// Services
+
+.featured-services,
+#services {
+  .list-grid {
+    justify-content: space-evenly;
+  }
+
+  .lgi {
+    text-align: center;
+  }
 }

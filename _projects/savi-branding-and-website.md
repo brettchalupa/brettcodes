@@ -1,11 +1,11 @@
 ---
-title: Savi Learning Branding & Website
-date: 2016-07-20 00:00:00 Z
+title: Savi Branding & Website
+date: 2016-09-20 00:00:00 Z
 tags:
 - project
 - featured
 layout: project
-organization: Savi Learning
+organization: Savi
 time_period: July 2016 - September 2016
 responsibilities:
 - Brand Design
@@ -15,8 +15,8 @@ technologies:
 - Sketch
 - Web
 - Jekyll
-website: http://www.savilearning.org
-excerpt: Build incredible learning experiences.
+website: http://www.savilabs.org
+excerpt: Build incredible learning experiences
 ---
 
 ![Savi Learning Logo](/img/projects/savi-learning-branding.png)
