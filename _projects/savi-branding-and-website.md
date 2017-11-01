@@ -19,13 +19,12 @@ website: http://www.savilabs.org
 excerpt: Build incredible learning experiences
 ---
 
-![Savi Learning Logo](/img/projects/savi-learning-branding.png)
+![Savi Logo](/img/projects/savi-learning-branding.png)
 
-We designed the Savi Learning brand collaboratively by creating a logo and style guide that specifies typography, color ways, and logo usage. We also designed and built their website based on the created style guide.
+We designed the Savi brand collaboratively by creating a logo and style guide that specifies typography, color ways, and logo usage. We also designed and built their website based on the created style guide.
 
 The style guide was built with Sketch. The website is powered by Jekyll.
 
-![Savi Learning Website](/img/projects/savi-learning-website.png)
+![Savi Website](/img/projects/savi-learning-website.png)
 
-We started the process by creating a mood board to share aesthetics and inspirations. From there, we worked with Savi Learning to select and refine the logo. Once that was all set, we designed and implemented the website.
-
+We started the process by creating a mood board to share aesthetics and inspirations. From there, we worked with Savi to select and refine the logo. Once that was all set, we designed and implemented the website.
