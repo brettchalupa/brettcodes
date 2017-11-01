@@ -4,7 +4,7 @@ title: Test Driven RSpec - Episode 01, A Simple Class
 date: 2016-12-11 10:00 PST
 author: Brett Chalupa
 category: RSpec
-tags: Screencast, Video, Ruby
+tags: Screencasts, Videos, Ruby
 description: A blog post introducing what Monoso is and what we do.
 ---
 
