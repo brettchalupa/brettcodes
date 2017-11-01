@@ -18,7 +18,7 @@ excerpt: Repository of public domain books for English language learners
 
 We built the application for Fair-Read, a collection of free ebooks for English language learners. Users can take a self-placement test to determine their reading level. The application then recommends books based on the results.
 
-Our responsibilities include user interface design, developing new features, and maintaining the infrastructure and apps.
+Our responsibilities included user interface design, developing the app, and maintaining the infrastructure.
 
-The architecture of the project consists of Ruby on Rails and AWS S3 for
-serving the books.
+The architecture of the project consists of Ruby on Rails for the core
+application and AWS S3 for hosting the books.
