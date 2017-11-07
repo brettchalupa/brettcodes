@@ -16,7 +16,7 @@ endpoints, one with parameters in the request.
 
 [View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-02)
 
-[View the playlist for series.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
+[View the playlist.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 
 Software used:
 
