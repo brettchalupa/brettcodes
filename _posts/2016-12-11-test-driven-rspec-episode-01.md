@@ -5,7 +5,7 @@ date: 2016-12-11 10:00 PST
 author: Brett Chalupa
 category: RSpec
 tags: Screencasts, Videos, Ruby
-description: A blog post introducing what Monoso is and what we do.
+description: A screencast introducing test driven development with RSpec using a simple class.
 ---
 
 The first episode of a series of screencasts on practicing Test Driven
