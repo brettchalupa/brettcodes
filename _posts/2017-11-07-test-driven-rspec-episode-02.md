@@ -6,13 +6,14 @@ author: Brett Chalupa
 category: RSpec
 tags: Screencasts, Videos, Ruby
 description: How to test drive an API endpoint in Rails with RSpec.
+comments: true
 ---
 
 The second episode in the series of screencasts covering Test Driven
 Development with RSpec. This episode goes over how to test drive two API
 endpoints, one with parameters in the request.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Wb3oIfiLdZU?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="393" src="https://www.youtube-nocookie.com/embed/Wb3oIfiLdZU?rel=0" frameborder="0" allowfullscreen></iframe>
 
 [View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-02)
 

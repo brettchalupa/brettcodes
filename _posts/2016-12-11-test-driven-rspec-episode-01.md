@@ -6,11 +6,12 @@ author: Brett Chalupa
 category: RSpec
 tags: Screencasts, Videos, Ruby
 description: A screencast introducing test driven development with RSpec using a simple class.
+comments: true
 ---
 
 The first episode of a series of screencasts on practicing Test Driven
 Development with RSpec 
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/K6RPMhcRICE?rel=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="700" height="393" src="https://www.youtube-nocookie.com/embed/K6RPMhcRICE?rel=0" frameborder="0" allowfullscreen></iframe>
 
 [View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-01)

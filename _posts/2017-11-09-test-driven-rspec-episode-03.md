@@ -6,6 +6,7 @@ author: Brett Chalupa
 category: RSpec
 tags: Screencasts, Videos, Ruby
 description: A deep-dive into configuring RSpec for Rails apps.
+comments: true
 ---
 
 The third episode in the series of screencasts covering Test Driven
