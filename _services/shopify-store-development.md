@@ -1,7 +1,7 @@
 ---
 title: Shopify Store Development
+date: 2016-11-29 16:00:00 -08:00
 description: Portland, Oregon based Shopify experts.
-date: 2016-11-30 00:00:00 Z
 layout: service
 ---
 

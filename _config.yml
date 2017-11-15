@@ -22,8 +22,9 @@ defaults:
     type: posts
   values:
     layout: post
-    description:
-description: A process-oriented web application development studio specializing in Ruby on Rails, Ember.js, Shopify, Wordpress, and high-quality code.
+    description: 
+description: A process-oriented web application development studio specializing in
+  Ruby on Rails, Ember.js, Shopify, Wordpress, and high-quality code.
 url: http://www.monoso.co
 logo: "/img/monoso-logo.png"
 twitter:
@@ -33,7 +34,7 @@ social:
   - https://twitter.com/monoso_co
   - https://www.facebook.com/monosopdx/
   - https://github.com/monoso
-name:  Monoso
+name: Monoso
 highlighter: rouge
 markdown: kramdown
 permalink: ":title"

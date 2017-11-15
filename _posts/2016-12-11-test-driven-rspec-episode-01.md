@@ -1,11 +1,16 @@
 ---
-layout: post
 title: Test Driven RSpec - Episode 01, A Simple Class
-date: 2016-12-11 10:00 PST
+date: 2016-12-11 10:00:00 -08:00
+categories:
+- RSpec
+tags:
+- Screencasts,
+- Videos,
+- Ruby
+layout: post
 author: Brett Chalupa
-category: RSpec
-tags: Screencasts, Videos, Ruby
-description: A screencast introducing test driven development with RSpec using a simple class.
+description: A screencast introducing test driven development with RSpec using a simple
+  class.
 comments: true
 ---
 

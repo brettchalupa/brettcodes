@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Test Driven RSpec - Episode 03, Configuring RSpec
-date: 2017-11-09 10:00 PST
+date: 2017-11-09 10:00:00 -08:00
+categories:
+- RSpec
+tags:
+- Screencasts,
+- Videos,
+- Ruby
+layout: post
 author: Brett Chalupa
-category: RSpec
-tags: Screencasts, Videos, Ruby
 description: A deep-dive into configuring RSpec for Rails apps.
 comments: true
 ---

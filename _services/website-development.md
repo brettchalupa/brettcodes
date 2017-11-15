@@ -1,9 +1,9 @@
 ---
 title: Website Development
-description: Portland, Oregon based website development service.
-date: 2016-12-02 00:00:00 Z
+date: 2016-12-01 16:00:00 -08:00
 tags:
 - featured
+description: Portland, Oregon based website development service.
 layout: service
 ---
 

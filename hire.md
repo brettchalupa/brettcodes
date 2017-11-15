@@ -1,7 +1,7 @@
 ---
 title: Hire
-description: Details on how to hire Monoso for software development and design services.
 permalink: "/hire"
+description: Details on how to hire Monoso for software development and design services.
 layout: default
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Fair-Read
-date: 2017-10-01 00:00:00 Z
+date: 2017-09-30 17:00:00 -07:00
 tags:
 - project
 - featured

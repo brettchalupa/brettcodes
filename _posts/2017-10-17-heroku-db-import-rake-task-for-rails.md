@@ -1,11 +1,17 @@
 ---
+title: A Simple Rake Task for Importing Heroku Postgres Databases Locally for Rails
+  Apps
+date: 2017-10-17 17:00:00 -07:00
+categories:
+- Ruby on Rails
+tags:
+- Heroku,
+- Rake,
+- Postgres
 layout: post
-title: A Simple Rake Task for Importing Heroku Postgres Databases Locally for Rails Apps
-date: 2017-10-17 17:00 PDT
 author: Brett Chalupa
-category: Ruby on Rails
-tags: Heroku, Rake, Postgres
-description: A quick way to download and ingest Heroku databases into the development environment.
+description: A quick way to download and ingest Heroku databases into the development
+  environment.
 comments: true
 ---
 

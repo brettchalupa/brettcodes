@@ -1,11 +1,17 @@
 ---
-layout: post
 title: Test Driven RSpec - Episode 05, Capybara Basics
-date: 2017-11-13 10:30 PST
+date: 2017-11-13 10:30:00 -08:00
+categories:
+- RSpec
+tags:
+- Screencasts,
+- Videos,
+- Ruby,
+- Capybara
+layout: post
 author: Brett Chalupa
-category: RSpec
-tags: Screencasts, Videos, Ruby, Capybara
-description: An introduction to using Capybara with RSpec to test web pages in a Rails app.
+description: An introduction to using Capybara with RSpec to test web pages in a Rails
+  app.
 comments: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: LaunchPad
-date: 2017-11-01 00:00:00 Z
+date: 2017-10-31 17:00:00 -07:00
 tags:
 - project
 - featured
@@ -14,7 +14,8 @@ technologies:
 - Ruby on Rails
 - Ember.js
 website: https://launchpad.savilabs.org
-excerpt: Curriculum planner that supports and inspires teachers to design high-quality, personalized learning experiences
+excerpt: Curriculum planner that supports and inspires teachers to design high-quality,
+  personalized learning experiences
 ---
 
 We continue to design and develop LaunchPad for Savi. LaunchPad is a curriculum planner for educators centered around Project Based Learning (PBL). Our responsibilities include user interface design, developing new features, and maintaining the infrastructure and apps.

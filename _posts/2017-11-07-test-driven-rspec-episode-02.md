@@ -1,10 +1,14 @@
 ---
-layout: post
 title: Test Driven RSpec - Episode 02, Testing a Rails API
-date: 2017-11-07 14:00 PST
+date: 2017-11-07 14:00:00 -08:00
+categories:
+- RSpec
+tags:
+- Screencasts,
+- Videos,
+- Ruby
+layout: post
 author: Brett Chalupa
-category: RSpec
-tags: Screencasts, Videos, Ruby
 description: How to test drive an API endpoint in Rails with RSpec.
 comments: true
 ---

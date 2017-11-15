@@ -1,7 +1,7 @@
 ---
 title: Contact
-description: Contact information for Monoso. How to get in touch via email.
 permalink: "/contact"
+description: Contact information for Monoso. How to get in touch via email.
 layout: default
 ---
 

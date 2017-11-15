@@ -1,6 +1,6 @@
 ---
 title: Burlington Ruby Conference
-date: 2015-08-02 00:00:00 Z
+date: 2015-08-01 17:00:00 -07:00
 tags:
 - project
 layout: project
@@ -12,7 +12,7 @@ responsibilities:
 - Design
 - Marketing
 - Development
-technologies:
+technologies: 
 website: http://burlingtonruby.github.io/conference/
 excerpt: Annual conference in Burlington, VT for Ruby developers
 ---

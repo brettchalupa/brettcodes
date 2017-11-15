@@ -1,9 +1,10 @@
 ---
-layout: post
 title: Introducing Monoso
-date: 2016-12-08 9:20 PST
+date: 2016-12-08 09:20:00 -08:00
+categories:
+- Meta
+layout: post
 author: Brett Chalupa
-category: Meta
 description: A blog post introducing what Monoso is and what we do.
 ---
 
