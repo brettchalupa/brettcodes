@@ -5,8 +5,8 @@ date: 2017-10-17 17:00:00 -07:00
 categories:
 - Ruby on Rails
 tags:
-- Heroku,
-- Rake,
+- Heroku
+- Rake
 - Postgres
 layout: post
 author: Brett Chalupa

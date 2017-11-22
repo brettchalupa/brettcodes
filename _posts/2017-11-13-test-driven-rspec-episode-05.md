@@ -4,9 +4,9 @@ date: 2017-11-13 10:30:00 -08:00
 categories:
 - RSpec
 tags:
-- Screencasts,
-- Videos,
-- Ruby,
+- Screencasts
+- Videos
+- Ruby
 - Capybara
 layout: post
 author: Brett Chalupa

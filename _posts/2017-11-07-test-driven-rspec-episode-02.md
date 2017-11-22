@@ -4,8 +4,8 @@ date: 2017-11-07 14:00:00 -08:00
 categories:
 - RSpec
 tags:
-- Screencasts,
-- Videos,
+- Screencasts
+- Videos
 - Ruby
 layout: post
 author: Brett Chalupa
