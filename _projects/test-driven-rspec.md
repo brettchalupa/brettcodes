@@ -26,7 +26,7 @@ test driven development with RSpec. Watch the entire series below:
 While the entire series is available to watch for free on YouTube,
 you can [purchase it for $5](https://gumroad.com/l/test-driven-rspec).
 That will give you access to download all of the episodes, as well as
-help support the creation of more screencasts.
+support the creation of more screencasts.
 
 My goal with Test Driven RSpec was to cover various aspects of RSpec and
 TDD to help developers put the methodology into practice in their own
