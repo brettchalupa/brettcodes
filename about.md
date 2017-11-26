@@ -8,41 +8,33 @@ layout: default
 
 # About
 
-Monoso is a small web application development firm based in Portland,
-Oregon focused on building simple and sustainable solutions. Monoso
-specializes in Ruby on Rails, Ember.js, Shopify, and Wordpress
-development.
-
-Monoso was founded in April 2016 with the goal of helping businesses by
-building software that is as high-quality and simple as possible, as
-well as create and share resources on software development and design.
-
-We value transparency, communication, and well-thought out processes.
-
-## Team
-
-### Brett Chalupa
-
-*Founder / Developer / Designer*
-
 ![Photo of Brett](/img/about_brett.jpg)
 
-Brett Chalupa is a software developer and designer. He's been building
-software for over a decade. He lives a simple lifestyle, focused on
-contentment. Brett enjoys writing, reading, and watching movies.
+Hi, my name is Brett. Monoso is my portfolio of software development and
+design projects. I've been building software for 10 years, and it's
+something I truly enjoy doing. I've been focused on web application
+development using Ruby on Rails, but I'm interested in and explore other
+technologies regularly.
 
-[Website](http://www.brettchalupa.com) /
-[LinkedIn](https://www.linkedin.com/in/brett-chalupa) /
-[Dribbble](https://dribbble.com/brettchalupa)
+Monoso is my place to share development and design resources like
+screencasts, blog posts, and talks. I try my best to publish a new
+screencast on
+[YouTube](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ)
+every week.
+
+I'm currently employed and not accepting new projects.
 
 ## On the Web
 
-Follow along with Monoso online:
+Follow along online:
 
 - [GitHub](https://github.com/monoso) &ndash; open source code
 - [Twitter](https://twitter.com/monoso_co) &ndash; small updates
 - [YouTube](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ) &ndash;
   development and design screencasts
+- [Dribbble](https://dribbble.com/brettchalupa) &ndash; design portfolio
+- [Personal Website](http://www.brettchalupa.com) &ndash; creative project portfolio
+- [LinkedIn](https://www.linkedin.com/in/brett-chalupa) &ndash; résumé
 
 ## Contact
 

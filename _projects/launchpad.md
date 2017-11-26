@@ -3,7 +3,6 @@ title: LaunchPad
 date: 2017-10-31 17:00:00 -07:00
 tags:
 - project
-- featured
 responsibilities:
 - Web Application Development
 - Web Application Design

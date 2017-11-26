@@ -3,7 +3,6 @@ title: Savi Branding & Website
 date: 2016-09-19 17:00:00 -07:00
 tags:
 - project
-- featured
 layout: project
 organization: Savi
 time_period: July 2016 - September 2016

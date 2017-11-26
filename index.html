@@ -5,9 +5,25 @@ layout: default
 
 <div id="home">
   <div class="intro">
-    <h1>Simple solutions to complex problems</h1>
+    <p class='intro-description'>
+      Hi, my name is Brett Chalupa. Monoso is my portfolio of software projects,
+      screencasts, and resources. I enjoy designing and building web
+      applications, and I'm sharing what I learn along the way.
+    </p>
+  </div>
 
-    <p class='intro-description'>Monoso is a detail-oriented web development studio specializing in Ruby on Rails, Ember.js, and Shopify.</p>
+  <div class='section blog-posts'>
+    <h2>Latest Blog Posts</h2>
+
+    <ul class='posts-list'>
+      {% for post in site.posts limit: 5 %}
+        <li>
+          <a href="{{ post.url }}">{{ post.title }}</a> / <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+        </li>
+      {% endfor %}
+    </ul>
+
+    <p class='small'><a href='/blog'>All Posts</a></p>
   </div>
 
   <div class='section featured-projects'>
@@ -24,35 +40,7 @@ layout: default
     <p class='small'><a href='/projects'>All Projects</a></p>
   </div>
 
-  <div class='section featured-services'>
-    <h2>Featured Services<h2>
-
-    <ul class='list-grid'>
-      {% for service in site.services reversed %}
-        {% if service.tags contains 'featured' %}
-          {% include service-list-item.html %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-
-    <p class='small'><a href='/services'>All Services</a></p>
-  </div>
-
-  <div class='section blog-posts'>
-    <h2>Latest Blog Posts</h2>
-
-    <ul class='posts-list'>
-      {% for post in site.posts limit: 3 %}
-        <li>
-          <a href="{{ post.url }}">{{ post.title }}</a> / <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-
-    <p class='small'><a href='/blog'>All Posts</a></p>
-  </div>
-
   <div class='section cta'>
-    <a href='/contact' class='btn'>Contact Monoso</a>
+    <a href='/about' class='btn'>Learn More About Monoso</a>
   </div>
 </div>
