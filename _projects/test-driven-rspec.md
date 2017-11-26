@@ -11,7 +11,7 @@ responsibilities:
 layout: project
 organization: Monoso
 image: /uploads/test-driven-rspec-cover.png
-time_period: October 2017 - November 2017
+time_period: November 2017
 technologies:
 - RSpec
 - Ruby on Rails
