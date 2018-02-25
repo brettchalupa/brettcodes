@@ -17,10 +17,7 @@ development using Ruby on Rails, but I'm interested in and explore other
 technologies regularly.
 
 Monoso is my place to share development and design resources like
-screencasts, blog posts, and talks. I try my best to publish a new
-screencast on
-[YouTube](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ)
-every week.
+screencasts, blog posts, and talks.
 
 I'm currently employed and not accepting new projects.
 
