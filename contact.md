@@ -7,4 +7,4 @@ layout: default
 
 # Contact
 
-The best way to get in touch is by email: <a href='mailto:contact@monoso.co'>contact@monoso.co</a>
+There is currently no way to get in touch.

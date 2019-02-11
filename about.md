@@ -32,8 +32,3 @@ Follow along online:
 - [Dribbble](https://dribbble.com/brettchalupa) &ndash; design portfolio
 - [Personal Website](http://www.brettchalupa.com) &ndash; creative project portfolio
 - [LinkedIn](https://www.linkedin.com/in/brett-chalupa) &ndash; résumé
-
-## Contact
-
-Get in touch by sending an email to
-[contact@monoso.co](mailto:contact@monoso.co).
