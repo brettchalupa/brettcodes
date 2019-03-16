@@ -25,7 +25,7 @@ defaults:
     description: 
 description: A process-oriented web application development studio specializing in
   Ruby on Rails, Ember.js, Shopify, Wordpress, and high-quality code.
-url: http://www.monoso.co
+url: https://monoso.brettchalupa.com
 logo: "/img/monoso-logo.png"
 twitter:
   username: monoso_co
