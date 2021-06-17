@@ -25,9 +25,9 @@ This episode covers:
 - Testing model scopes (15:12)
 - Refactoring the `consoles` array of hashes into database queries (20:12)
 
-[View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-04)
+[View the code.](https://github.com/brettchalupa/test-driven-rspec/tree/master/episode-04)
 
-[View the diff.](https://github.com/monoso/test-driven-rspec/commit/9e7a1eefde159b8089f47a322653178f45cb0e46)
+[View the diff.](https://github.com/brettchalupa/test-driven-rspec/commit/9e7a1eefde159b8089f47a322653178f45cb0e46)
 
 [View the playlist.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 

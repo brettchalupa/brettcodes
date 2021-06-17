@@ -1,5 +1,5 @@
 up:
-	bundle exec jekyll serve -w -i -D
+	bundle exec jekyll serve -w -D
 
 bundle:
 	bundle install
