@@ -9,7 +9,7 @@ tags:
 responsibilities:
 - Screencast Production
 layout: project
-organization: Monoso
+organization: Personal
 image: /uploads/test-driven-rspec-cover.png
 time_period: November 2017
 technologies:
@@ -33,7 +33,7 @@ TDD to help developers put the methodology into practice in their own
 applications.
 
 [The source code for the episodes can be viewed on
-GitHub.](https://github.com/monoso/test-driven-rspec)
+GitHub.](https://github.com/brettchalupa/test-driven-rspec)
 
 Here are the individual blog posts for each episode:
 

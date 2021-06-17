@@ -4,7 +4,7 @@ date: 2015-08-01 17:00:00 -07:00
 tags:
 - project
 layout: project
-organization: Monoso
+organization: Personal
 time_period: January 2013 - August 2015
 responsibilities:
 - Event Planning

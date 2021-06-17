@@ -96,9 +96,11 @@ a {
   }
 }
 
-.btn {
+a.btn {
   border: $border-solid;
-  color: $font-color;
+  background: $font-color;
+  border-radius: 8px;
+  color: white;
   display: inline-block;
   padding: $spacing-unit / 2 $spacing-unit / 1.5;
   text-decoration: none;
@@ -107,7 +109,7 @@ a {
 
   &:hover,
   &:focus {
-    border-color: darken($font-color, 15%);
+    background: lighten($font-color, 15%);
   }
 }
 
@@ -190,6 +192,10 @@ iframe {
   }
 }
 
+.section--centered {
+  text-align: center;
+}
+
 // Header & Footer
 
 .site-header,
@@ -202,10 +208,6 @@ iframe {
   @media (max-width: $breakpoint-sm) {
     flex-direction: column;
     text-align: center;
-  }
-
-  .logo {
-    max-width: 132px;
   }
 }
 
@@ -257,6 +259,10 @@ iframe {
   a {
     @extend .header-anchor;
   }
+}
+
+.title {
+  font-weight: $font-weight-bold;
 }
 
 .colophon {
@@ -332,8 +338,13 @@ iframe {
 //// Home
 
 #home {
+  .logo {
+    max-width: 132px;
+    border-radius: 100%;
+  }
+
   .intro {
-    margin: $spacing-unit * 2 auto $spacing-unit * 2;
+    margin: $spacing-unit auto;
     max-width: 540px;
     text-align: center;
 

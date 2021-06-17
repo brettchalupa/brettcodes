@@ -30,9 +30,9 @@ This episode covers:
 
 If you're interested in learning more about Capybara, [the project's README](https://github.com/teamcapybara/capybara) is great. I'll also be covering it more in future episodes.
 
-[View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-05)
+[View the code.](https://github.com/brettchalupa/test-driven-rspec/tree/master/episode-05)
 
-[View the diff.](https://github.com/monoso/test-driven-rspec/commit/6618d193b708536216b22d920b547b01d6468b60)
+[View the diff.](https://github.com/brettchalupa/test-driven-rspec/commit/6618d193b708536216b22d920b547b01d6468b60)
 
 [View the playlist.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 

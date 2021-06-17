@@ -19,7 +19,7 @@ endpoints, one with parameters in the request.
 
 <iframe width="700" height="393" src="https://www.youtube-nocookie.com/embed/Wb3oIfiLdZU?rel=0" frameborder="0" allowfullscreen></iframe>
 
-[View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-02)
+[View the code.](https://github.com/brettchalupa/test-driven-rspec/tree/master/episode-02)
 
 [View the playlist.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 

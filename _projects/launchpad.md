@@ -8,7 +8,7 @@ responsibilities:
 - Web Application Design
 layout: project
 organization: Savi
-time_period: March 2016 - Present
+time_period: March 2016 - November 2018
 technologies:
 - Ruby on Rails
 - Ember.js

@@ -1,12 +1,12 @@
-# [Monoso Website](https://monoso.brettchalupa.com)
+# [Brett Codes Website](https://code.brettchalupa.com)
 
-The website of Monoso, built with [Jekyll](http://jekyllrb.com).
+The website of Brett Codes, built with [Jekyll](http://jekyllrb.com).
 
 ## Developing
 
 1. Clone the repository
-2. Install the dependencies - `bundle install`
-3. Start up the Jekyll server and show drafts - `jekyll serve -w -i -D`
+2. Install the dependencies - `make bundle`
+3. Start up the Jekyll server and show drafts - `make up`
 4. Make changes
 
 ## Hosting & Deploying
@@ -35,4 +35,4 @@ See the `gems:` section in `_config.yml` for the full list.
 
 ## License
 
-Copyright (c) Monoso 
+Copyright (c) Brett Chalupa, 2016-2021

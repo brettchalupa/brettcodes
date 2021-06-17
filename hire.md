@@ -1,7 +1,7 @@
 ---
 title: Hire
 permalink: "/hire"
-description: Details on how to hire Monoso for software development and design services.
+description: Details on how to hire Brett Chalupa for software development and design services.
 layout: default
 ---
 

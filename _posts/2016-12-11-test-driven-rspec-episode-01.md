@@ -19,4 +19,4 @@ Development with RSpec
 
 <iframe width="700" height="393" src="https://www.youtube-nocookie.com/embed/K6RPMhcRICE?rel=0" frameborder="0" allowfullscreen></iframe>
 
-[View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-01)
+[View the code.](https://github.com/brettchalupa/test-driven-rspec/tree/master/episode-01)

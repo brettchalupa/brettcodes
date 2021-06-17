@@ -1,6 +1,6 @@
 ---
-title: Monoso
-timezone: America/Los_Angeles
+title: Brett Codes
+timezone: America/New_York
 collections:
   posts:
     title: Posts
@@ -23,18 +23,16 @@ defaults:
   values:
     layout: post
     description: 
-description: A process-oriented web application development studio specializing in
-  Ruby on Rails, Ember.js, Shopify, Wordpress, and high-quality code.
-url: https://monoso.brettchalupa.com
-logo: "/img/monoso-logo.png"
+description: Web development screencasts, tutorials, and blog posts by Brett Chalupa.
+url: https://code.brettchalupa.com
+logo: "/img/brett.jpg"
 twitter:
-  username: monoso_co
+  username: brettchalupa
 social:
   links:
-  - https://twitter.com/monoso_co
-  - https://www.facebook.com/monosopdx/
-  - https://github.com/monoso
-name: Monoso
+  - https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ
+  - https://github.com/brettchalupa
+name: Brett Codes
 highlighter: rouge
 markdown: kramdown
 permalink: ":title"

@@ -29,9 +29,9 @@ This episode covers:
 - Viewing an index of consoles
 - Adding new consoles
 
-[View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-07)
+[View the code.](https://github.com/brettchalupa/test-driven-rspec/tree/master/episode-07)
 
-[View the diff.](https://github.com/monoso/test-driven-rspec/commit/fb479033ac4c6850e2bd95e1b2b5bad3d83a1c42)
+[View the diff.](https://github.com/brettchalupa/test-driven-rspec/commit/fb479033ac4c6850e2bd95e1b2b5bad3d83a1c42)
 
 [View the playlist.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 

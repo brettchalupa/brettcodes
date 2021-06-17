@@ -28,9 +28,9 @@ This episode covers:
 Also, [here's how to make it so that `API` works for the controller
 modules](https://stackoverflow.com/questions/28990466/rails-autoloading-fully-capitalized-name-like-api).
 
-[View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-06)
+[View the code.](https://github.com/brettchalupa/test-driven-rspec/tree/master/episode-06)
 
-[View the diff.](https://github.com/monoso/test-driven-rspec/commit/8f9dc32173f1b9a202b25fdeac92aa50732ea955)
+[View the diff.](https://github.com/brettchalupa/test-driven-rspec/commit/8f9dc32173f1b9a202b25fdeac92aa50732ea955)
 
 [View the playlist.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 

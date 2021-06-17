@@ -32,7 +32,7 @@ This episode goes into detail on:
 
 Be sure to check out the [rspec-rails README](https://github.com/rspec/rspec-rails) for more info.
 
-[View the code.](https://github.com/monoso/test-driven-rspec/tree/master/episode-03)
+[View the code.](https://github.com/brettchalupa/test-driven-rspec/tree/master/episode-03)
 
 [View the playlist.](https://www.youtube.com/playlist?list=PLr442xinba86s9cCWxoIH_xq5UE9Wwo4Z)
 
