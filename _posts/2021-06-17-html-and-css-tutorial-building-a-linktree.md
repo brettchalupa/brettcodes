@@ -8,6 +8,7 @@ tags:
 - CSS
 - Screencasts
 - Videos
+image: /img/linktree-screenshot.jpg
 author: Brett Chalupa
 description: A thorough introduction into HTML and CSS by building out a link-in-bio website.
 date: 2021-06-17 11:08 -0400
