@@ -22,7 +22,6 @@ Follow along online:
 - [YouTube](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ) &ndash; software development tutorials and screencasts
 - [GitHub](https://github.com/brettchalupa) &ndash; open source code
 - [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
-  development and design screencasts
 - [Dribbble](https://dribbble.com/brettchalupa) &ndash; design portfolio
 - [LinkedIn](https://www.linkedin.com/in/brett-chalupa) &ndash; résumé
 - [Personal Website](http://www.brettchalupa.com) &ndash; creative project portfolio
