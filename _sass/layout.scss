@@ -357,14 +357,16 @@ iframe {
 // Post / Entry
 
 .posts {
-  text-align: center;
   list-style: none;
+  text-align: center;
 
   display: flex;
   flex-wrap: wrap;
 
   li {
     flex-basis: 33.33%;
+    padding: 12px;
+    box-sizing: border-box;
 
     a {
       display: block;
