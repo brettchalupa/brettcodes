@@ -359,6 +359,21 @@ iframe {
 .posts {
   text-align: center;
   list-style: none;
+
+  display: flex;
+  flex-wrap: wrap;
+
+  li {
+    flex-basis: 33.33%;
+
+    a {
+      display: block;
+    }
+
+    .meta {
+      display: block;
+    }
+  }
 }
 
 .post-meta {
