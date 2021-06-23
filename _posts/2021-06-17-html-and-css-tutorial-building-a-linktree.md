@@ -22,7 +22,7 @@ The idea for this screencast has been kicking around in my head for years now, s
 
 View the website made in the tutorial: [brettchalupa.neocities.org](https://brettchalupa.neocities.org/)
 
-[View the source code for the web page.](https://github.com/brettchalupa/screencasts/blob/master/linktree/index.html)
+[View the source code for the web page.](https://github.com/brettchalupa/screencasts/tree/4577bfe139918a7fbb7d2cdb545e84e61dcfa827/linktree)
 
 The topics covered are HTML elements, semantic HTML, writing styles, and hosting the site on the web.
 
