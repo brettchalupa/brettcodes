@@ -9,7 +9,7 @@ tags:
 - CSS
 - Screencasts
 - Videos
-image: /img/dark-mode-thumbnail-thumbnail.jpg
+image: /img/dark-mode-thumbnail.jpg
 author: Brett Chalupa
 description: A quick walkthrough on adding Dark Mode support to a website using CSS's prefers-color-scheme.
 ---
