@@ -10,7 +10,7 @@ tags:
 - Mocking and Stubbing
 - Screencasts
 - Videos
-series: Advanced RSpec
+series: RSpec Deep Dive
 image: /img/rspec-test-doubles-explained-thumbnail.jpg
 author: Brett Chalupa
 ---
