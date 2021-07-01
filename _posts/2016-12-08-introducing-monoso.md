@@ -8,8 +8,7 @@ author: Brett Chalupa
 description: A blog post introducing what Monoso is and what we do.
 ---
 
-_Note: I've since simplified and rebranded "Monoso" to be "Brett Codes."
----
+_Note: I've since simplified and rebranded "Monoso" to be "Brett Codes."_
 
 Hi, my name is Brett. I’m pleased to introduce Monoso, a new software consulting firm focused on building web applications. I've been doing freelance work for the past nine months under my own name, and I've decided to start using a Doing Business As (DBA) to build the company as its own entity.
 
