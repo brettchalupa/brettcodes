@@ -1,13 +1,13 @@
 ---
-layout: post
 title: How I Intentionally Keep Learning as a Software Developer
-description: A simple system I've been using for years to organize my learning efforts.
-date: 2021-07-05 09:56 -0400
+date: 2021-07-05 09:56:00 -04:00
 categories:
 - Beyond the Code
 tags:
 - Screencasts
 - Videos
+layout: post
+description: A simple system I've been using for years to organize my learning efforts.
 author: Brett Chalupa
 ---
 
