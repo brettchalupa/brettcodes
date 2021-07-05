@@ -395,3 +395,14 @@ iframe {
     text-align: center;
   }
 }
+
+figure {
+  margin: 12px;
+}
+
+figcaption {
+  font-family: $font-family;
+  font-size: 14px;
+  text-align: center;
+  padding: 4px 0 24px;
+}
