@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec - Episode 01, A Simple Class
-date: 2016-12-11 10:00:00 -08:00
+date: 2016-12-11 13:00:00 -05:00
 categories:
 - RSpec
 tags:

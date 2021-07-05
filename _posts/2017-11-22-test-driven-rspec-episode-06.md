@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec - Episode 06, Refactoring Routes
-date: 2017-11-22 09:00:00 -08:00
+date: 2017-11-22 12:00:00 -05:00
 categories:
 - RSpec
 tags:

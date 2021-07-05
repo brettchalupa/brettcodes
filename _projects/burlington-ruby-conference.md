@@ -1,6 +1,6 @@
 ---
 title: Burlington Ruby Conference
-date: 2015-08-01 17:00:00 -07:00
+date: 2015-08-01 20:00:00 -04:00
 tags:
 - project
 layout: project

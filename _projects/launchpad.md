@@ -1,6 +1,6 @@
 ---
 title: LaunchPad
-date: 2017-10-31 17:00:00 -07:00
+date: 2017-10-31 20:00:00 -04:00
 tags:
 - project
 responsibilities:

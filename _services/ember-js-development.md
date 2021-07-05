@@ -1,6 +1,6 @@
 ---
 title: Ember.js Development
-date: 2016-12-02 16:00:00 -08:00
+date: 2016-12-02 19:00:00 -05:00
 tags:
 - featured
 description: Portland, Oregon based Ember.js development team.

@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec - Episode 03, Configuring RSpec
-date: 2017-11-09 10:00:00 -08:00
+date: 2017-11-09 13:00:00 -05:00
 categories:
 - RSpec
 tags:

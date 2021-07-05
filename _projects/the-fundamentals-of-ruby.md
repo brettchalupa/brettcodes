@@ -1,6 +1,6 @@
 ---
 title: The Fundamentals of Ruby
-date: 2013-08-23 17:00:00 -07:00
+date: 2013-08-23 20:00:00 -04:00
 tags:
 - project
 layout: project

@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec - Episode 07, Viewing and Adding Records
-date: 2017-11-25 17:00:00 -08:00
+date: 2017-11-25 20:00:00 -05:00
 categories:
 - RSpec
 tags:

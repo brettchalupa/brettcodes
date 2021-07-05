@@ -1,6 +1,6 @@
 ---
 title: Supporting VPR
-date: 2014-10-27 17:00:00 -07:00
+date: 2014-10-27 20:00:00 -04:00
 tags:
 - project
 layout: project

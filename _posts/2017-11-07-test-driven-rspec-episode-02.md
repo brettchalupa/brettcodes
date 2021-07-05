@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec - Episode 02, Testing a Rails API
-date: 2017-11-07 14:00:00 -08:00
+date: 2017-11-07 17:00:00 -05:00
 categories:
 - RSpec
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec - Episode 04, Unit Testing Models
-date: 2017-11-11 10:00:00 -08:00
+date: 2017-11-11 13:00:00 -05:00
 categories:
 - RSpec
 tags:

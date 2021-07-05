@@ -1,7 +1,6 @@
 ---
-layout: post
 title: RSpec Mocking & Stubbing Explained
-date: 2021-06-30 09:43 -0400
+date: 2021-06-30 09:43:00 -04:00
 categories:
 - Ruby
 tags:
@@ -10,8 +9,9 @@ tags:
 - Mocking and Stubbing
 - Screencasts
 - Videos
+layout: post
 series: RSpec Deep Dive
-image: /img/rspec-mocking-and-stubbing-explained.jpg
+image: "/img/rspec-mocking-and-stubbing-explained.jpg"
 author: Brett Chalupa
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec
-date: 2017-11-26 10:00:00 -08:00
+date: 2017-11-26 13:00:00 -05:00
 tags:
 - project
 - screencast series
@@ -10,7 +10,7 @@ responsibilities:
 - Screencast Production
 layout: project
 organization: Personal
-image: /uploads/test-driven-rspec-cover.png
+image: "/uploads/test-driven-rspec-cover.png"
 time_period: November 2017
 technologies:
 - RSpec

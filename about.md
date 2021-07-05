@@ -1,7 +1,8 @@
 ---
 title: About
 permalink: "/about"
-description: Information about Brett Codes, links to their profiles on the web, and how to get in touch.
+description: Information about Brett Codes, links to their profiles on the web, and
+  how to get in touch.
 layout: default
 ---
 

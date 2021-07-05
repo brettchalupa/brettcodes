@@ -1,6 +1,6 @@
 ---
 title: Introducing Monoso
-date: 2016-12-08 09:20:00 -08:00
+date: 2016-12-08 12:20:00 -05:00
 categories:
 - Meta
 layout: post

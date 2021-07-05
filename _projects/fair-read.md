@@ -1,6 +1,6 @@
 ---
 title: Fair-Read
-date: 2017-09-30 17:00:00 -07:00
+date: 2017-09-30 20:00:00 -04:00
 tags:
 - project
 responsibilities:

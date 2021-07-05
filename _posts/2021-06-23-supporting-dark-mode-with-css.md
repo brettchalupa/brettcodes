@@ -1,7 +1,6 @@
 ---
-layout: post
-title: 'Supporting Dark Mode with CSS'
-date: 2021-06-23 07:02 -0400
+title: Supporting Dark Mode with CSS
+date: 2021-06-23 07:02:00 -04:00
 categories:
 - Web
 tags:
@@ -9,9 +8,11 @@ tags:
 - CSS
 - Screencasts
 - Videos
-image: /img/dark-mode-thumbnail.jpg
+layout: post
+image: "/img/dark-mode-thumbnail.jpg"
 author: Brett Chalupa
-description: A quick walkthrough on adding Dark Mode support to a website using CSS's prefers-color-scheme.
+description: A quick walkthrough on adding Dark Mode support to a website using CSS's
+  prefers-color-scheme.
 ---
 
 A quick introduction to Dark Mode: operating systems on phones and desktops

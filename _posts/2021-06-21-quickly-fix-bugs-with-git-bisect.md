@@ -1,13 +1,13 @@
 ---
-layout: post
 title: Quickly Fix Bugs with Git Bisect
-date: 2021-06-21 09:02 -0400
+date: 2021-06-21 09:02:00 -04:00
 categories:
 - Git
 tags:
 - Screencasts
 - Videos
-image: /img/git-bisect.jpg
+layout: post
+image: "/img/git-bisect.jpg"
 author: Brett Chalupa
 description: A walkthrough on how to use Git Bisect to identify regressions in codebases.
 ---

@@ -1,6 +1,6 @@
 ---
 title: Test Driven RSpec - Episode 05, Capybara Basics
-date: 2017-11-13 10:30:00 -08:00
+date: 2017-11-13 13:30:00 -05:00
 categories:
 - RSpec
 tags:

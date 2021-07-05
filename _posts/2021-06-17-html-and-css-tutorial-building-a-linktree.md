@@ -1,6 +1,6 @@
 ---
-layout: post
 title: HTML and CSS Introduction Tutorial, Building a Basic Link-in-Bio Website
+date: 2021-06-17 11:08:00 -04:00
 categories:
 - Web
 tags:
@@ -8,10 +8,11 @@ tags:
 - CSS
 - Screencasts
 - Videos
-image: /img/linktree-screenshot.jpg
+layout: post
+image: "/img/linktree-screenshot.jpg"
 author: Brett Chalupa
-description: A thorough introduction into HTML and CSS by building out a link-in-bio website.
-date: 2021-06-17 11:08 -0400
+description: A thorough introduction into HTML and CSS by building out a link-in-bio
+  website.
 ---
 
 <iframe width="700" height="393" src="https://www.youtube.com/embed/q6P-CJ4cPMQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

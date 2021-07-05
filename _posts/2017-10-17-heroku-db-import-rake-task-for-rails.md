@@ -1,7 +1,7 @@
 ---
 title: A Simple Rake Task for Importing Heroku Postgres Databases Locally for Rails
   Apps
-date: 2017-10-17 17:00:00 -07:00
+date: 2017-10-17 20:00:00 -04:00
 categories:
 - Ruby on Rails
 tags:

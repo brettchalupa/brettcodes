@@ -1,7 +1,6 @@
 ---
-layout: post
 title: RSpec Test Doubles Explained
-date: 2021-06-28 08:37 -0400
+date: 2021-06-28 08:37:00 -04:00
 categories:
 - Ruby
 tags:
@@ -10,8 +9,9 @@ tags:
 - Mocking and Stubbing
 - Screencasts
 - Videos
+layout: post
 series: RSpec Deep Dive
-image: /img/rspec-test-doubles-explained-thumbnail.jpg
+image: "/img/rspec-test-doubles-explained-thumbnail.jpg"
 author: Brett Chalupa
 ---
 
