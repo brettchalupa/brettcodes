@@ -30,20 +30,6 @@ layout: default
     <p class='small'><a href='/blog'>All Posts</a></p>
   </div>
 
-  <div class='section featured-projects'>
-    <h2>Featured Projects<h2>
-
-    <ul class='list-grid'>
-      {% for project in site.projects reversed %}
-        {% if project.tags contains 'featured' %}
-          {% include project-list-item.html %}
-        {% endif %}
-      {% endfor %}
-    </ul>
-
-    <p class='small'><a href='/projects'>All Projects</a></p>
-  </div>
-
   <div class='section cta'>
     <a href='/about' class='btn'>Learn More About Brett</a>
   </div>
