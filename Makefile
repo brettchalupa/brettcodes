@@ -1,7 +1,7 @@
 .PHONY: post up bundle draft
 
 up:
-	bundle exec jekyll serve -w -D
+	bundle exec jekyll serve -w -D -l -o --port 4010 --livereload_port 8889
 
 bundle:
 	bundle install
