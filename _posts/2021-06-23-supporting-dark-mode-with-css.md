@@ -25,7 +25,7 @@ like the apps on their OS do. It shows them that you care about their
 preferences. Those little touches go a long way when it comes to websites and
 apps.
 
-<iframe width="700" height="393" src="https://www.youtube.com/embed/gXmK0Y5XbPg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<bc-youtube-video token="gXmK0Y5XbPg"></bc-youtube-video>
 
 (Ironically, at the time of writing this post, this very website does not
 support Dark Mode yet. 😭 I'll work on adding it soon!)
