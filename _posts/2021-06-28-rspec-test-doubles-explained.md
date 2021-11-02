@@ -15,7 +15,7 @@ image: "/img/rspec-test-doubles-explained-thumbnail.jpg"
 author: Brett Chalupa
 ---
 
-<bc-youtube-video token="S9KJOv4UJMY"></bc-youtube-video>
+<iframe width="700" height="393" src="https://www.youtube.com/embed/S9KJOv4UJMY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 When writing unit tests, it's encouraged to write you tests in isolation from other objects so that your tests don't rely upon the implemention of those other objects. As long as what the dependencies implement and return stays the same, their implementation can change with the tests for your object changing. The benefit is that this allows for simpler and faster tests.
 

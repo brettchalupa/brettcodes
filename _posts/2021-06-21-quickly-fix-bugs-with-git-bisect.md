@@ -18,7 +18,7 @@ Well, meet your new best friend—Git Bisect.
 
 It is by far the quickest and most effective way to pinpoint the commit that introduced the bug, which will help you understand what's wrong and how to fix it.
 
-<bc-youtube-video token="MqNy9f-K0G4"></bc-youtube-video>
+<iframe width="700" height="393" src="https://www.youtube.com/embed/MqNy9f-K0G4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 How it works is pretty simple: you mark commits as "good" and "bad" to help Git more efficiently go through a series of commits to find the first "bad" commit, a.k.a. the commit that introduced the regression.
 
