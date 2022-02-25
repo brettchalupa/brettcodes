@@ -35,4 +35,4 @@ See the `gems:` section in `_config.yml` for the full list.
 
 ## License
 
-Copyright (c) Brett Chalupa, 2016-2021
+Copyright (c) Brett Chalupa, 2016-2022
