@@ -5,10 +5,10 @@ description: "A walkthrough on using RuboCop and general thoughts on code lintin
 image: "/img/ruby-code-linting-with-rubocop-thumbnail.jpg"
 date: 2021-07-08 08:20 -0400
 categories:
-- Let's Build a Ruby Gem
+- The Fundamentals of Ruby
 tags:
 - Ruby
-- Best Practices
+- Scripting
 - Screencasts
 - Videos
 ---
