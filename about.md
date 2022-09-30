@@ -20,9 +20,8 @@ technologies regularly.
 
 Follow along online:
 
-- [YouTube](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ) &ndash; software development tutorials and screencasts
+- [YouTube](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ) &ndash; software development screencasts
 - [GitHub](https://github.com/brettchalupa) &ndash; open source code
-- [Twitter](https://twitter.com/brettchalupa) &ndash; small updates
-- [Dribbble](https://dribbble.com/brettchalupa) &ndash; design portfolio
-- [LinkedIn](https://www.linkedin.com/in/brett-chalupa) &ndash; résumé
-- [Personal Website](http://www.brettchalupa.com) &ndash; creative project portfolio
+- [Twitter](https://twitter.com/brett_codes) &ndash; small updates
+- [Reddit](https://reddit.com/users/brettcodes)
+- [Personal Website](http://www.brettchalupa.com) &ndash; personal website for creative projects

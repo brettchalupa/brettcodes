@@ -23,7 +23,7 @@ defaults:
   values:
     layout: post
     description: 
-description: Web development screencasts, tutorials, and blog posts by Brett Chalupa.
+description: Programming screencasts, tutorials, and blog posts by Brett Chalupa.
 url: https://code.brettchalupa.com
 logo: "/img/brett.jpg"
 twitter:
