@@ -41,6 +41,14 @@ I'm curious to see how Rust feels for building APIs and web applications. That'l
 
 But I'd be willing to bet that we'll continue to see more widespread usage of Rust. Even in just the last few years where I've casually followed it, its usage has continued to grow. It's also matured, has a solid package manager, great docs, and a wonderful community. It doesn't seem destined for obscurity. It, in so many ways, seems like an ideal language to have in one's toolkit.
 
+## What I've Done So Far
+
+- Built a simple open-source CLI driven by tests: https://github.com/brettchalupa/werds
+- Reading through [The Rust Programming Language Book](https://doc.rust-lang.org/book/)
+- Halfway through the [Rustlings](https://github.com/rust-lang/rustlings) exercises
+- Went through the [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html) guide
+- Reading _Hands-On Rust_ (really fantastic so far)
+
 ## Hopes &amp; Dreams
 
 I'd really like to use Rust for building some significant hobby projects! That's my goal at least. We'll see how it goes. Early learning and progress has been promising. I've been enjoying it. It's been clicking. I've got ideas for what I want to build (collected in _[Projectbook](https://projectbook.code.brettchalupa.com)_).
