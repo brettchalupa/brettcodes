@@ -1,7 +1,7 @@
 ---
 layout: post
 title: RSpec's spec_helper vs rails_helper Explained
-description: "A look at the difference between them and when to use each."
+description: "A look at the difference between helpers when using RSpec with Rails for faster tests."
 image: "/img/spec_helper-vs-rails_helper.webp"
 date: 2022-10-03 11:00 -0400
 categories:
