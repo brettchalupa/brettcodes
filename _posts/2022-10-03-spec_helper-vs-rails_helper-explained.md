@@ -68,9 +68,9 @@ With a fresh Rails 7 codebase ([source](https://github.com/brettchalupa/screenca
 - `rails_helper` (cold run): Finished in 0.01671 seconds (files took 1.07 seconds to load)
 - `rails_helper` (warm run): Finished in 0.01058 seconds (files took 0.45144 seconds to load)
 
-There are two values to be aware. The time it takes to run the specs (the first number) and the time it takes to load the files from disk. They are separate values and their aggregate is the total time it takes to run a given spec (or specs).
+There are two values to be aware of. The time it takes to run the specs (the first number) and the time it takes to load the files from disk. They are separate values and their aggregate is the total time it takes to run a given spec (or specs).
 
-The spec_helper loads the files for testing 25x faster on cold runs! Even on a warm run with the files already loaded, spec_helper is still 10x faster as loading the files!
+The spec_helper loads the files for testing 25x faster on cold runs! Even on a warm run with the files already loaded, spec_helper is still 10x faster at loading the files!
 
 On top of that, running the actual code in the specs is 10x faster than both.
 
@@ -78,7 +78,7 @@ That's a huge difference when it comes to the time it takes and you'll notice it
 
 ## Why is this?
 
-This happens because the `rails_helper` is loading hundreds, potentially thousands of Ruby files and configuring the Rails app. Rails does a lot! Look at your `Gemfile.lock` and see the depedency tree. Even if you have only ~15 gems in in your `Gemfile`, it's likely there are far more than that because each gem has its own dependencies.
+This happens because the `rails_helper` is loading hundreds, potentially thousands of Ruby files and configuring the Rails app. Rails does a lot! Look at your `Gemfile.lock` and see the dependency tree. Even if you have only ~15 gems in in your `Gemfile`, it's likely there are far more than that because each gem has its own dependencies.
 
 There's a cost to pulling in dependencies and working with an application framework as large as Rails—it slows things down.
 
