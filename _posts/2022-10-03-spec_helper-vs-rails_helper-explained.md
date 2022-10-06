@@ -15,7 +15,7 @@ When you install RSpec in your Rails application, two of the files it generates 
 
 <iframe width="700" height="393" src="https://www.youtube-nocookie.com/embed/UkctRoFvSuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## Intro to these files
+## Intro to the helpers
 
 When you write specs in your Rails app, at the top of each file you require a helper that loads RSpec and other dependencies:
 
