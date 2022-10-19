@@ -18,3 +18,5 @@ excerpt: A collection of over 100 project ideas for learning programming.
 I collected as many ideas as I could for software projects that'd be great for learning into a free, online book called _Projectbook_.
 
 [Read the book!](https://projectbook.code.brettchalupa.com)
+
+[Discuss on Hacker News.](https://news.ycombinator.com/item?id=33245614)
