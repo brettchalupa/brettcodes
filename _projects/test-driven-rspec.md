@@ -6,8 +6,6 @@ tags:
 - screencast series
 - series
 - featured
-responsibilities:
-- Screencast Production
 layout: project
 organization: Personal
 image: "/uploads/test-driven-rspec-cover.png"
