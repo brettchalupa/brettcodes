@@ -16,5 +16,3 @@ excerpt: A week-long course teaching kids how to program with Ruby
 We developed the curriculum and taught it at the [Tarrant Code
 Camp](http://tiie.w3.uvm.edu/codecamp/) and [Cabot School](http://cabotschool.org/) during two weeks in August 2013. It was focused on building interactive software that teaches the fundamentals of programming with Ruby. The curriculum covered basic data types, variables, arrays, user input, logic, loops, GUIs, arrays, methods, and
 classes.
-
-_This project was done by Brett while doing freelance work under his own name._

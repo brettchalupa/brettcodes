@@ -3,6 +3,7 @@ title: Pyvio API Infrastructure
 date: 2016-09-17 20:00:00 -04:00
 tags:
 - project
+- archived
 responsibilities:
 - Infrastructure Setup
 layout: project

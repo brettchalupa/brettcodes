@@ -1,7 +1,7 @@
 ---
 title: Projects
 permalink: "/projects"
-description: Projects that Brett Chalupa has worked on over the years.
+description: Technical projects I've worked on throughout the years. A mix of personal and professional.
 layout: default
 ---
 
@@ -24,7 +24,7 @@ layout: default
 
   <ul class='list-grid'>
     {% for project in site.projects reversed %}
-      {% unless project.tags contains 'featured' %}
+      {% unless project.tags contains 'featured' or project.tags contains 'archived' %}
         {% include project-list-item.html %}
       {% endunless %}
     {% endfor %}

@@ -3,6 +3,7 @@ title: Fair-Read
 date: 2017-09-30 20:00:00 -04:00
 tags:
 - project
+- archived
 responsibilities:
 - Web Application Development
 - Web Application Design

@@ -12,7 +12,9 @@ layout: default
   <ul>
     <li>Organization: {{ page.organization }}</li>
     <li>Time Period: {{ page.time_period }}</li>
-    <li>Responsibilities: {{ page.responsibilities | join: ', ' }}
+    {% if page.responsibilities %}
+      <li>Responsibilities: {{ page.responsibilities | join: ', ' }}
+    {% endif %}
     {% if page.technologies %}
       <li>Technologies: {{ page.technologies | join: ', ' }}</li>
     {% endif %}
