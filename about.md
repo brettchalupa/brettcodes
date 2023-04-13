@@ -23,5 +23,4 @@ Follow along online:
 - [YouTube](https://www.youtube.com/channel/UCQXaIyeRqHjK9EK41b8J3yQ) &ndash; software development screencasts
 - [GitHub](https://github.com/brettchalupa) &ndash; open source code
 - [Twitter](https://twitter.com/brett_codes) &ndash; small updates
-- [Reddit](https://reddit.com/users/brettcodes)
 - [Personal Website](http://www.brettchalupa.com) &ndash; personal website for creative projects
